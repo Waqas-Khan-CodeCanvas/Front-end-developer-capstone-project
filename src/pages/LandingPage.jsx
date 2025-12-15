@@ -4,7 +4,7 @@ export default function Landing() {
   return (
     <div
       className="h-screen bg-contain bg-center flex items-center justify-center"
-      style={{ backgroundImage: "url('/image copy 6.png')" }}
+      style={{ backgroundImage: "url('/Fern.png')" }}
     >
       {/* Overlay */}
       <div className="absolute inset-0 bg-black/40"></div>
